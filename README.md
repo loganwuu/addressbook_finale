@@ -1,4 +1,4 @@
-# Address Book w/ Prototypes and Constructors, MochaJS, Chai Assertion Library
+# Address Book w/ Prototypes and Constructors
 
 ##### A website that allows users to enter contacts with multiple addresses. (9/15/15)
 
