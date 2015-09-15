@@ -1,6 +1,6 @@
-# Address Book
+# Address Book w/ Prototypes and Constructors, MochaJS, Chai Assertion Library
 
-##### A website that allows users to enter contacts with multiple addresses. (9/14/15)
+##### A website that allows users to enter contacts with multiple addresses. (9/15/15)
 
 #### By Logan Wu & Ian McKenney
 
@@ -15,7 +15,7 @@ Input fields include ```first name```, ```last name```, ```street```, ```city```
 
 ## Technologies Used
 
-HTML, CSS, JavaScript, jQuery
+HTML, CSS, JavaScript, jQuery, MochaJS, Chai Assertion Library
 
 ### Legal
 

@@ -68,7 +68,8 @@ $(document).ready(function() {
                                 "</span></li>");
 
         $(".contact").last().click(function() {
-            $("#show-contact").show();
+            $("#show-contact").fadeOut();
+            $("#show-contact").fadeIn(1000);
             $("#show-contact h2").text(newContact.firstName);
             $(".first-name").text(newContact.firstName);
             $(".last-name").text(newContact.lastName);
